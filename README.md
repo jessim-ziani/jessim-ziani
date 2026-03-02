@@ -25,7 +25,7 @@ I am a first-year engineering student at EPITA, passionate about software develo
 ![Statistiques](https://github-readme-stats.vercel.app/api?username=jessim-ziani&show_icons=true&theme=radical&count_private=true)
 
 
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessim-ziani&layout=compact&theme=radical)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessim-ziani&layout=compact&theme=radical&v=1)
 
 
 ## Technical Stack
