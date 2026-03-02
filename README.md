@@ -20,3 +20,9 @@ I am a first-year engineering student at EPITA, passionate about software develo
 ## 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/jessim-ziani](https://linkedin.com/in/jessim-ziani)
 * **Email:** zianijessim@gmail.com
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jessim-ziani&show_icons=true&theme=radical" alt="Statistiques de Jessim" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessim-ziani&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</div>
