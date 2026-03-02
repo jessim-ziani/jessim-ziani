@@ -31,6 +31,6 @@ I am a first-year engineering student at EPITA, passionate about software develo
 ## Technical Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,postgresql,linux,bash,git,unity,blender,ocaml,asm" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,postgresql,linux,bash,git,unity,blender,ocaml,assembly" />
   </a>
 </div>
