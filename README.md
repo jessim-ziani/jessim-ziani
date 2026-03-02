@@ -22,6 +22,11 @@ I am a first-year engineering student at EPITA, passionate about software develo
 * **Email:** zianijessim@gmail.com
 
 
+![Statistiques](https://github-readme-stats.vercel.app/api?username=jessim-ziani&show_icons=true&theme=radical&count_private=true)
+
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessim-ziani&layout=compact&theme=radical)
+
+
 ## Technical Stack
 <div align="center">
   <a href="https://skillicons.dev">
