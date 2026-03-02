@@ -1,23 +1,22 @@
-# Hi, I'm Jessim Ziani 👋
+# Jessim Ziani
+**IT Engineering Student at EPITA**
 
-**IT Engineering Student at EPITA | Looking for a 4-6 Month Internship (Sept 2026)**
+I am a first-year engineering student at EPITA, passionate about software development, system architecture, and algorithmic logic. I enjoy building robust applications and tackling complex technical challenges, from low-level system programming to object-oriented software and interactive 3D environments.
 
-I am currently in my first year of the engineering cycle at EPITA. I have a strong foundation in object-oriented programming, system architecture, and algorithmic logic. Beyond coding, I have experience in 3D modeling with Blender and recently completed an international semester at Chulalongkorn University in Bangkok. 
+## 🛠️ Technical Stack
+* **Core Languages:** C, C++, Java, C#, Python, Assembly.
+* **Systems & Data:** Linux, Bash Scripting, PostgreSQL.
+* **Development Tools:** Git, GDB, Make.
+* **Design & Assets:** 3D Environment Modeling (Blender), UI/Level Design.
 
-I am actively looking for a 4 to 6-month internship starting in September 2026 to apply my technical skills to real-world projects.
+## 💻 Featured Projects
 
-## 🛠️ Technical Skills
-* **Languages:** C, C++, Java, C#, Python, ASM.
-* **Databases & Systems:** PostgreSQL, Linux, Bash Scripting.
-* **Tools:** Git, GDB, Make.
-* **Creative:** 3D Modeling (Blender), Graphic Design.
+* **42sh (C) :** Developed a POSIX-compliant shell interpreter from scratch. Designed the Lexer/Parser, Abstract Syntax Tree (AST), and managed complex processes and pipes.
+* **Custom Memory Allocator (C) :** Implemented core memory management functions (`malloc`, `free`, `realloc`, `calloc`). Optimized memory fragmentation handling using linked lists.
+* **Behavioral AI (Java) :** Developed a multi-threaded Artificial Intelligence capable of handling unit behaviors and routing through a REST API.
+* **Data Intelligence (SQL) :** Built a target tracking and data intelligence system utilizing complex and optimized PostgreSQL queries.
+* **[La Grande Evasion](https://github.com/jessim-ziani/LaGrandeEvasion) (Unity / C#) :** A 3D Puzzle & Horror game developed in a 4-person academic team. Acted as UI & Level Designer and Developer, focusing on environment architecture and event-driven puzzle logic.
 
-## 🚀 Featured Projects
-* **La Grande Evasion:** A 3D Puzzle & Horror game developed in Unity (C#). Acted as UI & Level Designer / Developer in a 4-person academic team.
-* **42sh (C):** Developed a POSIX-compliant shell interpreter, implementing a Lexer/Parser, AST, and process/pipe management.
-* **Custom Allocator (C):** Implemented memory allocation functions (malloc, free, realloc, calloc) with fragmentation management via linked lists.
-* **Java AI Rush:** Created a multi-threaded behavioral AI that controls units through a REST API.
-
-## 📫 Let's Connect
-* **LinkedIn:** linkedin.com/in/jessim-ziani
+## 📫 Connect with me
+* **LinkedIn:** [linkedin.com/in/jessim-ziani](https://linkedin.com/in/jessim-ziani)
 * **Email:** zianijessim@gmail.com
