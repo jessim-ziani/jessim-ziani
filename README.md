@@ -12,7 +12,7 @@ I am a first-year engineering student at EPITA, passionate about software develo
 ## 💻 Featured Projects
 
 * **[42sh](https://github.com/jessim-ziani/42sh) (C) :** Developed a POSIX-compliant shell interpreter from scratch. Designed the Lexer/Parser, Abstract Syntax Tree (AST), and managed complex processes and pipes.
-* **Custom Memory Allocator (C) :** Implemented core memory management functions (`malloc`, `free`, `realloc`, `calloc`). Optimized memory fragmentation handling using linked lists.
+* **[Custom Memory Allocator](https://github.com/jessim-ziani/Malloc-Custom-Dynamic-Memory-Allocator) (C) :** Implemented core memory management functions (`malloc`, `free`, `realloc`, `calloc`). Optimized memory fragmentation handling using linked lists.
 * **Behavioral AI (Java) :** Developed a multi-threaded Artificial Intelligence capable of handling unit behaviors and routing through a REST API.
 * **Data Intelligence (SQL) :** Built a target tracking and data intelligence system utilizing complex and optimized PostgreSQL queries.
 * **[La Grande Evasion](https://github.com/jessim-ziani/LaGrandeEvasion) (Unity / C#) :** A 3D Puzzle & Horror game developed in a 4-person academic team. Acted as UI & Level Designer and Developer, focusing on environment architecture and event-driven puzzle logic.
